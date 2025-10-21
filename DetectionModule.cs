@@ -18,6 +18,6 @@ public class DetectionModule
         //     bool allow = PasswordPopup.ShowPopup(file);
         // If allow == true → continue download.
         // If allow == false → cancel download.
-        // Hint: This method represents the system’s continuous monitoring loop.
+        // This method represents the system’s continuous monitoring loop.
     }
 }
